@@ -225,6 +225,19 @@ section {
   cursor: pointer;
   height: 2rem;
 }
+.title-icon {
+  
+  width: auto; /* Maintain aspect ratio */
+  height: 50px; /* Adjust height as needed */
+  margin-left: 5px; /* Space between text and icon */
+}
+.title-icon2 {
+  padding-top: -5px;
+  width: auto; /* Maintain aspect ratio */
+  height: 50px; /* Adjust height as needed */
+  margin-left: 5px; /* Space between text and icon */
+}
+
 
 /* BUTTONS */
 
